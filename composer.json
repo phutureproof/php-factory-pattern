@@ -1,0 +1,20 @@
+{
+  "name": "phutureproof/php-factory-pattern",
+  "description": "factory pattern implemented in php",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Dale Paget",
+      "email": "dale.phutureproof@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "PhutureProof\\": "src/"
+    }
+  },
+  "config": {
+    "optimize-autoloader": true
+  }
+}
