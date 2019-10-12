@@ -1,0 +1,10 @@
+# PHPStorm
+/.idea
+
+# Package managed
+/vendor
+/node_modules
+
+# config files
+.env
+*.env
